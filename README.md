@@ -42,5 +42,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EnzoMedej}/count.svg" /></p> 
 <br>
 </div>
-
-![snake animation](https://github.com/<EnzoMedej>/EnzoMedej>/blob/output/github-contribution-grid-snake2.svg)
